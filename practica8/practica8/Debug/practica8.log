@@ -1,0 +1,9 @@
+﻿  Main_prac10.cpp
+c:\users\adria\documents\p11\practica11\practica8\practica8\main_prac10.cpp(418): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\adria\documents\p11\practica11\practica8\practica8\main_prac10.cpp(793): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\adria\documents\p11\practica11\practica8\practica8\main_prac10.cpp(794): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\adria\documents\p11\practica11\practica8\practica8\main_prac10.cpp(798): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\adria\documents\p11\practica11\practica8\practica8\main_prac10.cpp(799): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\adria\documents\p11\practica11\practica8\practica8\main_prac10.cpp(801): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\adria\documents\p11\practica11\practica8\practica8\main_prac10.cpp(802): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  practica8.vcxproj -> C:\Users\adria\Documents\p11\practica11\practica8\Debug\practica8.exe

@@ -1,0 +1,391 @@
+newmtl D_Plant:Leaves
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd LEAVE.jpg
+Ni 1.00
+Ks 0.90 0.90 0.90
+Ns 2.14
+newmtl D_Plant:Pot
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.84 0.84 0.84
+Tf 1.00 1.00 1.00
+map_Kd S_p.jpg
+bump S_p1.jpg -bm 0
+Ni 1.00
+Ks 0.90 0.90 0.90
+Ns 2.14
+newmtl Morty:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pielx2.jpg
+Ni 1.00
+newmtl Morty:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd camisamortyx2.jpg
+Ni 1.00
+newmtl Morty:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pantalonesmortyx2.jpg
+Ni 1.00
+newmtl Morty:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tenismortyx2.jpg
+Ni 1.00
+newmtl Morty:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pelomortyx2.jpg
+Ni 1.00
+newmtl Morty:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd telex2.jpg
+Ni 1.00
+newmtl casco:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd antenax2.jpg
+Ni 1.00
+newmtl casco:lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredroja.jpg
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd casaadentrox2.jpg
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puertagarage.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 0.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillosx2.jpg
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd manguerax2.jpg
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo2.jpg
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.47 0.47 0.47
+map_Kd vidrio.jpg
+Ni 1.00
+newmtl lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredroja2.jpg
+Ni 1.00
+newmtl lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pruebaparedes.jpg
+Ni 1.00
+newmtl lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd antenax2.jpg
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo3.jpg
+Ni 1.00
+newmtl lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd balconymarcos.jpg
+Ni 1.00
+newmtl lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pastonopastox2.jpg
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banquetax2.jpg
+Ni 1.00
+newmtl lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd telex2.jpg
+Ni 1.00
+newmtl lambert19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sofax4.jpg
+Ni 1.00
+newmtl lambert20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cajonesx3.jpg
+Ni 1.00
+newmtl lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd balconymarcos.jpg
+Ni 1.00
+newmtl lampara:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lamparax3.jpg
+Ni 1.00
+newmtl lampara:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lamparax4.jpg
+Ni 1.00
+newmtl lampara:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueblex3.jpg
+Ni 1.00
+newmtl lampara:lmp005_black_pla
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 32.00
+newmtl lampara:lmp005_texture2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LMP00501.jpg
+Ni 1.00
+Ks 0.78 0.78 0.78
+Ns 11.31
+newmtl lavaboylavadoras:_Washing_machine_MODEL_obj02___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sofax2.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl lavaboylavadoras:_Washing_machine_MODEL_obj04___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredroja2.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl lavaboylavadoras:_Washing_machine_MODEL_objMaterial__1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lamparax3.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl lavaboylavadoras:_Washing_machine_MODEL_objMaterial__10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cajonesx2.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl lavaboylavadoras:_Washing_machine_MODEL_objMaterial__85
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lamparax3.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl lavaboylavadoras:_Washing_machine_MODEL_objMaterial__86
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cajonesx3.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl lavaboylavadoras:_Washing_machine_MODEL_objwire_154215229
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd telex2.jpg
+Ni 1.50
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl lavaboylavadoras:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lavabox2.jpg
+Ni 1.00
+newmtl matraces:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl matraces:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.16 0.16 0.16
+map_Kd matrazx2.jpg
+Ni 1.00
+newmtl matraces:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.36 0.36 0.36
+map_Kd matrazx1.jpg
+Ni 1.00
+newmtl microscopio:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl microscopio:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd antenax2.jpg
+Ni 1.00
+newmtl reloj:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lamparax3.jpg
+Ni 1.00
+newmtl reloj:lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd telex2.jpg
+Ni 1.00
+newmtl sillon:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sillonx2.jpg
+Ni 1.00
+newmtl tele:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mueblex3.jpg
+Ni 1.00
+newmtl virus:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lamparax4.jpg
+Ni 1.00
+newmtl virus:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd antenax2.jpg
+Ni 1.00
+newmtl virus:lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd virusx2.jpg
+Ni 1.00
